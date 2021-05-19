@@ -1,0 +1,6 @@
+name: pandas_replica
+dependencies:
+- python=3.8
+- pandas
+- jupyter
+- pytest
